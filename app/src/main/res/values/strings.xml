@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me App</string>
+    <string name="name">Çağdaş Pektaş</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sem felis, lobortis id neque eu, luctus imperdiet libero. Ut semper sollicitudin nunc. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam libero lorem, feugiat vel magna vitae, laoreet ornare elit. Cras volutpat fermentum dui, ut molestie neque tristique at. Mauris blandit malesuada semper. Nulla molestie, dui vehicula consequat laoreet, turpis augue porttitor magna, eu molestie velit ipsum in nunc. Praesent nec ex dapibus enim rhoncus volutpat. Integer tristique ex at eros rhoncus, vel tempus felis bibendum. Duis ligula odio, ultrices ut ultrices efficitur, laoreet a dolor. Quisque ut turpis enim. Fusce sodales vitae nisi ac sodales. Nullam laoreet turpis justo, et consectetur lectus pretium in. Proin posuere leo quam, a cursus lorem facilisis vel.
+
+Integer eget nunc nec leo congue accumsan eu varius urna. Quisque ac blandit libero. Integer accumsan porttitor sem sed mollis. In placerat ex at nibh accumsan finibus lobortis at sem. Maecenas cursus non mi in scelerisque. Mauris hendrerit turpis a dui euismod, sed eleifend libero maximus. In erat urna, gravida maximus posuere vestibulum, accumsan et augue.</string>
+    <string name="your_name_hint">Enter your name</string>
+    <string name="done_button">Done</string>
+
+
+</resources>
